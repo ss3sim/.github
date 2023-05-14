@@ -16,9 +16,10 @@
 
 ## Overview
 
-In this organization you can find repositories associated with {ss3im}.
-{ss3sim} is an R package that simplifies the steps needed to generate beautiful simulation output
-from the widely-used [Stock Synthesis (SS3)](https://github.com/nmfs-stock-synthesis/stock-synthesis) statistical age-structured stock assessment framework.
+In this organization you can find repositories associated with {ss3im},
+an R package that simplifies the steps needed to generate beautiful simulation output
+from the widely-used [Stock Synthesis (SS3)](https://github.com/nmfs-stock-synthesis/stock-synthesis).
+SS3 is a statistical age-structured stock assessment framework typically used to assess the status of pelagic and groundfish populations.
 To learn more, read on or check out the [Introduction vignette](https://ss3sim.github.io/ss3sim/articles/introduction.html).
 
 - [{ss3sim} repository](https://github.com/ss3sim/ss3sim/) 
@@ -29,6 +30,6 @@ To learn more, read on or check out the [Introduction vignette](https://ss3sim.g
 
 - [Stock Synthesis 3.30 (SS3)](https://github.com/nmfs-stock-synthesis/stock-synthesis)
 - [The Fisheries Integrated Toolbox](https://noaa-fisheries-integrated-toolbox.github.io/)
-- [Stock Assessment Dictionary Project](https://github.com/nmfs-fish-tools/data_dictionary)
+- [Stock Assessment Dictionary Project](https://github.com/nmfs-fish-tools/fishdictionary)
 
-> If you have questions or comments please [contact Kelli Johnson](mailto:kelli.johnson@noaa.gov).
+> If you have questions or comments please [contact Kelli F. Johnson](mailto:kelli.johnson@noaa.gov).
